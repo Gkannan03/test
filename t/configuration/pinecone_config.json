@@ -1,0 +1,11 @@
+{
+    "PINECONE_CONFIG": {
+        "API_KEY": "c92a0214-2fcb-4641-90c2-01f634552d6c",
+        "INDEX": "google-bard",
+        "ENV": "us-east-1-aws",
+        "INDEX_KEY_SHOPIFY": "shopifyec389a2e1cd6452e8094fa99d147b161",
+        "INDEX_KEY_SHOPIFYTEST": "shopifytestaf7599acb65a46d4bdbd1f0823449ce0",
+        "INDEX_KEY_VEHO": "veho2ea4d695160f412fa33ccff93a3c3309",
+        "INDEX_KEY_ETSYSELLER": "etsysellerac27238a9c174647aa01d0fc4c402601"
+    }
+}

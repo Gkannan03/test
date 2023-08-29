@@ -1,0 +1,676 @@
+kannan.g@taskus.com,Log in,2023-08-28 11:44:31
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 11:44:31
+kannan.g@taskus.com,{'Question': 'Where do I purchase a domain?'},2023-08-28 11:44:45
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 11:44:47
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.756065547,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.69939822,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!6',
+              'metadata': {'file_chunk_index': 6.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.683845341,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!4',
+              'metadata': {'file_chunk_index': 4.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.663232565,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.663223445,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 11:44:48
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n'}",2023-08-28 11:44:48
+kannan.g@taskus.com,"{'Answer: ': {'text': ""You can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", '_prediction_response': Prediction(predictions=[{'content': ""You can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", 'citationMetadata': {'citations': [{'startIndex': 0.0, 'endIndex': 134.0}, {'startIndex': 98.0, 'url': 'https://medium.com/@mykitcart/how-to-start-an-online-store-with-kitcart-a-step-by-step-guide-825dfc34cb86?source=rss-------1', 'endIndex': 297.0}]}, 'safetyAttributes': {'blocked': False, 'scores': [0.2], 'categories': ['Finance']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.2}}}",2023-08-28 11:44:51
+kannan.g@taskus.com,{'Question': 'How do I transfer my domain to shopify?'},2023-08-28 11:45:11
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 11:45:13
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.810244501,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!1',
+              'metadata': {'file_chunk_index': 1.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.806677103,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.801598,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.798772037,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.791215897,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 11:45:15
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\nLearn more about transferring your domain out of Shopify https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; Common questions about: Connect a third-party domain; ; ; ; Why isn\'t my domain connected to my online store?; ; ; ; There are many reasons why a domain connection might not work. If you\'re using a domain from a third-party domain provider, then you might need to edit the domain\'s DNS settings.; ; ; ; Shopify Support can\'t log in to your third-party domain account for you, even if you give your explicit permission. If you need help with pointing your domain to your Shopify store, then contact your third-party domain provider’s support team. You might need to give them the following information:; ; ; ; ; ; You want your A record to point to the Shopify IP address 23.227.38.65.; ; You want your CNAME record to point to shops.myshopify.com.; ; Learn how to connect a domain to Shopify https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains; ; Learn how to get help with your third-party domain https://help.shopify.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/transferring-domains; ; ; ; How do I remove a domain from my store?; ; ; ; If you no longer want a custom domain associated with your Shopify store, then you can do one of the following:; ; ; ; If you have a third-party domain, then you can remove your domain from your Shopify admin.; ; If you have a Shopify-managed domain and you want to use it on another website, then you can transfer your domain to another Shopify store or to another domain provider.; ; If you have a Shopify-managed domain and you want to cancel it completely, then you can disable automatic renewal so that it expires at the end of the registration period.; ; Learn more about removing a third-party domain https://help.shopify.com/en/manual/domains/removing-domains; ; Learn more about transferring a Shopify domain to another store or domain provider https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; ; ; How do I transfer my domain out of Shopify?; ; ; ; To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n###\n""Shopify FAQ (1)""\nFilename is: Shopify FAQ (1); Common questions about: Transfer a domain to Shopify; ; ; ; How do I transfer my domain to Shopify?; ; ; ; When you transfer a domain, management of the domain moves to Shopify. This means that you adjust your domain settings, pay for your domain, and renew your domain directly in your Shopify admin.; ; ; ; To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account.Learn how to transfer a domain to Shopify https://help.shopify.\n###\n""Shopify FAQ (1)""\ninfo, and then click Next.; ; Click Connect automatically.; ; If necessary, log in to your Google Domains account.; ; Click Connect, and then click Close.; ; ; ; ; ; It might take up to 48 hours for your domain to be verified. After it\'s verified, your domain is listed in the THIRD-PARTY DOMAINS section of the Domains page with the status Connected.; ; Learn more about connecting your Google domain to your Shopify store https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/connect-domain-automatic; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; Common questions about: Buy a domain; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers.\n'}",2023-08-28 11:45:15
+kannan.g@taskus.com,"{'Answer: ': {'text': 'To transfer your domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify here: https://help.shopify.com/en/manual/domains/transfer-a-domain-to-shopify', '_prediction_response': Prediction(predictions=[{'content': 'To transfer your domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify here: https://help.shopify.com/en/manual/domains/transfer-a-domain-to-shopify', 'citationMetadata': {'citations': [{'startIndex': 0.0, 'url': 'https://changecreator.com/shopify-vs-wordpress/', 'endIndex': 125.0}]}, 'safetyAttributes': {'blocked': False, 'scores': [0.1, 0.1], 'categories': ['Finance', 'Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.1, 'Legal': 0.1}}}",2023-08-28 11:45:18
+kannan.g@taskus.com,Log in,2023-08-28 12:56:27
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 12:56:27
+kannan.g@taskus.com,{'Selected ': 'etsyseller Text-bison-001'},2023-08-28 12:56:34
+kannan.g@taskus.com,{'Question': 'What is etsyseller'},2023-08-28 12:56:44
+kannan.g@taskus.com,{'Pinecone_index': 'etsysellerac27238a9c174647aa01d0fc4c402601'},2023-08-28 12:56:46
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!27',
+              'metadata': {'file_chunk_index': 27.0, 'filename': 'etsy-seller'},
+              'score': 0.729068339,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!3',
+              'metadata': {'file_chunk_index': 3.0, 'filename': 'etsy-seller'},
+              'score': 0.714583397,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!25',
+              'metadata': {'file_chunk_index': 25.0, 'filename': 'etsy-seller'},
+              'score': 0.708655715,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!7',
+              'metadata': {'file_chunk_index': 7.0, 'filename': 'etsy-seller'},
+              'score': 0.707469523,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'etsy-seller'},
+              'score': 0.697031677,
+              'values': []}],
+ 'namespace': 'etsysellerac27238a9c174647aa01d0fc4c402601'}}",2023-08-28 12:56:47
+kannan.g@taskus.com,"{'file_string': '###\n""etsy-seller""\n Message to Buyers are included on order receipt pages and in the email buyers receive when they purchase from your shop.;             ; ;             ;               ;             ;           ; ;           ;           ; ;           ;  ;   ;    Related articles;   ;   ;    ;     ;      Refunds, Returns, and Exchanges for Sellers;     ;    ;     ;      How to Set Up Your Shop Policies;     ;\n###\n""etsy-seller""\n It’s important that you respond to requests for information in the case log within the time frame given to show both the buyer and Etsy that you are working towards a solution.; As we continue to invest in our sellers’ success, your feedback is crucial for helping us improve the seller experience. Our survey is the most effective way to provide your feedback on Etsy’s Purchase Protection program and let us know what you would like to see from it in the future. ; ; ; If you still have questions about a closed case for an item that arrived damaged or different than described, you can reach out to us to dispute the outcome.; How it works ; ; Share what happened on the next page. The more specific you are, the better we’ll be able to help.; A trained specialist will review your case and outcome to make sure everything aligns with Etsy’s policies and Etsy’s Purchase Protection program.\xa0; You’ll get a final decision via email within 1-3 business days. ; ; Generally speaking, if your case was about an item that the buyer never received, we can’t review your outcome further since we already have all the info we need.\n###\n""etsy-seller""\n\xa0; ; How do I use a simple return policy?\xa0; If you choose to use the simple return policy template, the following settings are applied to your listing:; ; ; Buyers can return or exchange the item.; Buyers must return it within 30 days of delivery.; Buyers are responsible for any return shipping costs.*\xa0; Buyers are responsible for any loss in value (as agreed upon with you) if an item isn’t returned in its original condition.*\xa0; ; Choose this option by selecting Apply simple policy in the listing editor. When you are satisfied with your listing, select Publish.\xa0\xa0; * These settings are standard on all returns and not specific to the simple return policy.\xa0; Do I need to accept returns or exchanges?\xa0; If you’re a seller outside of the EU, all of your physical item listings must have a return policy set so buyers know what to expect when purchasing from you. However, whether you choose to accept returns or exchanges on your listings or not is completely optional and based on your individual business needs.\xa0; Consumer protection laws in the EU require some sellers to offer a minimum 14-day return policy on orders that ship to those countries. For additional information on this, review this help article on EU law regarding returns and exchanges.\xa0; Can digital downloads be returned?\xa0; It’s not possible to set return or exchange policies on your digital listings.\n###\n""etsy-seller""\n\xa0; Jump to a section:; ; What type of taxpayer ID can I use?; What if I file taxes as a disregarded entity in the US?; Troubleshooting; ; ; What type of taxpayer ID can I use?; For most countries, you can add one taxpayer ID. This is generally your VAT ID or, for US sellers, your federal Employer Identification Number (EIN), federal Social Security Number (SSN), or Individual Taxpayer Identification Number (ITIN).\xa0; ; If you’re unsure of your correct taxpayer details, we recommend that you contact a tax professional. Etsy is unable to provide sellers with specific tax advice.; ; For Canadian sellers, you can add any relevant GST/HST, QST, PST, and RST IDs you have into your Canadian Taxpayer IDs section. ; For taxpayers with citizenship in the US that don’t reside in the US, France sellers with SIREN/T IDs, or non-Canadian sellers with Canadian tax IDs, enter this info in the Additional Taxpayer Identification section.; I have Canadian Tax IDs: ; ; Starting July 1st 2022, Etsy may be required to collect Canadian sales tax - including GST/ HST, QST, and PST on items ordered by shoppers in Canada. To ensure that buyers are seeing accurate tax information in your shop, our sales tax tool will be retired on July 1st.\n'}",2023-08-28 12:56:47
+kannan.g@taskus.com,"{'Answer: ': {'text': 'Etsy is an online marketplace where people can buy and sell handmade, vintage, and unique items.', '_prediction_response': Prediction(predictions=[{'content': 'Etsy is an online marketplace where people can buy and sell handmade, vintage, and unique items.', 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.1], 'categories': ['Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Legal': 0.1}}}",2023-08-28 12:56:50
+kannan.g@taskus.com,"{'Question': ""What is Etsy's Purchase Protection for Sellers?""}",2023-08-28 12:58:16
+kannan.g@taskus.com,{'Pinecone_index': 'etsysellerac27238a9c174647aa01d0fc4c402601'},2023-08-28 12:58:19
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'etsy-seller'},
+              'score': 0.814698696,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!11',
+              'metadata': {'file_chunk_index': 11.0, 'filename': 'etsy-seller'},
+              'score': 0.756401956,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!27',
+              'metadata': {'file_chunk_index': 27.0, 'filename': 'etsy-seller'},
+              'score': 0.735193253,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!3',
+              'metadata': {'file_chunk_index': 3.0, 'filename': 'etsy-seller'},
+              'score': 0.714584589,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!9',
+              'metadata': {'file_chunk_index': 9.0, 'filename': 'etsy-seller'},
+              'score': 0.700043082,
+              'values': []}],
+ 'namespace': 'etsysellerac27238a9c174647aa01d0fc4c402601'}}",2023-08-28 12:58:20
+kannan.g@taskus.com,"{'file_string': '###\n""etsy-seller""\n\xa0; What isn’t eligible for Etsy’s Purchase Protection program?\xa0; The following situations will make an order ineligible for Purchase Protection:\xa0\xa0; ; The order does not meet one or more of the eligibility requirements for Etsy Purchase Protection.; The order total is over $250 USD (or the equivalent of your local currency), including shipping and taxes.\xa0; The item doesn’t match the listing description. We strongly recommend using accurate photos and descriptions when listing an item.; You obtain insurance from a third-party source, or have carrier and/or payment processor coverage. We ask that you first submit a claim to your primary source of coverage instead.\xa0; You’re from a region where Etsy Payments is not currently available.; Your shop is not in good standing for violating Etsy policies.; ; Sellers are responsible for refunding costs for orders that fall outside of these eligibility requirements.; See our article of best shipping practices to ensure you’re following the proper steps for your order to arrive undamaged.\xa0; How do I qualify for Etsy Purchase Protection?\xa0; Etsy Purchase Protection will automatically cover qualifying orders with no setup required from the seller.\xa0\xa0; The Etsy Purchase Protection process only begins after:; ; ; A buyer reaches out to you about an order through a Help request; The buyer opens a case about the order; ; ; Once a buyer has taken both of these actions, Etsy will review the order and make a resolution.\n###\n""etsy-seller""\n Try updating your taxpayer information in a few hours or the following day.; ; I entered incorrect US taxpayer details; If you enter US taxpayer details, we’ll check that the information matches the information on file in the IRS database.\xa0; If the information you’ve entered doesn’t match the IRS database, you must update again with your correct taxpayer details. You can try adding your taxpayer details up to 5 times per 24 hours. If you exceed this number of attempts, check back after 24 hours. We’ll notify you if they still don’t match the IRS database. ; ; If your sales have totaled at least $500.00 USD since January 1 of this year and you haven’t yet added valid taxpayer details, your shop will be suspended if you enter incorrect details. The suspension will automatically be lifted once you add the correct details.; Once you are close to the threshold, you\'ll see an alert in your Shop Manager Dashboard asking you to enter in your taxpayer details.; You can contact the IRS to confirm your correct taxpayer information.\n###\n""etsy-seller""\n Message to Buyers are included on order receipt pages and in the email buyers receive when they purchase from your shop.;             ; ;             ;               ;             ;           ; ;           ;           ; ;           ;  ;   ;    Related articles;   ;   ;    ;     ;      Refunds, Returns, and Exchanges for Sellers;     ;    ;     ;      How to Set Up Your Shop Policies;     ;\n###\n""etsy-seller""\n It’s important that you respond to requests for information in the case log within the time frame given to show both the buyer and Etsy that you are working towards a solution.; As we continue to invest in our sellers’ success, your feedback is crucial for helping us improve the seller experience. Our survey is the most effective way to provide your feedback on Etsy’s Purchase Protection program and let us know what you would like to see from it in the future. ; ; ; If you still have questions about a closed case for an item that arrived damaged or different than described, you can reach out to us to dispute the outcome.; How it works ; ; Share what happened on the next page. The more specific you are, the better we’ll be able to help.; A trained specialist will review your case and outcome to make sure everything aligns with Etsy’s policies and Etsy’s Purchase Protection program.\xa0; You’ll get a final decision via email within 1-3 business days. ; ; Generally speaking, if your case was about an item that the buyer never received, we can’t review your outcome further since we already have all the info we need.\n###\n""etsy-seller""\n If you don’t have a VAT number, you can provide us with your CURP number in the Additional Taxpayer Identification section.; ; I\'m a non-US seller with US taxpayer details: ; ; If you’re an American citizen located outside the US, you can add your Social Security Number (SSN) or Individual Taxpayer Identification Number (ITIN) as your secondary taxpayer detail.; ; I\'m a US business:; ; If you’ve organized yourself legally as a US business (and assuming you are not a sole proprietorship) and use an Employer Identification Number (EIN), you may need to enter your business name under Legal Name and Address on the Legal and tax information page.\xa0; I’m registered as a business (entity) and file my taxes as a business; ; If you’re registered with the IRS as a business (entity) and file your taxes as a business:; ; Use the business name and EIN that is registered with the IRS.; Refer to the letter provided by the IRS after you registered your EIN. This letter should indicate the correctly matched taxpayer name and EIN. We’ll use this to match the IRS database.; ; ; I\'m a US sole proprietor: ; ; If you are using a Social Security Number (SSN) or using an EIN as a sole proprietorship, you may need to enter your individual legal name.\n'}",2023-08-28 12:58:20
+kannan.g@taskus.com,"{'Answer: ': {'text': 'Etsy Purchase Protection is a program that helps protect buyers from items that arrive damaged or different than described. If a buyer opens a case about an item that arrived damaged or different than described, Etsy will review the case and make a decision about whether to refund the buyer. If Etsy decides to refund the buyer, Etsy will also refund the seller for the cost of the item and shipping.', '_prediction_response': Prediction(predictions=[{'content': 'Etsy Purchase Protection is a program that helps protect buyers from items that arrive damaged or different than described. If a buyer opens a case about an item that arrived damaged or different than described, Etsy will review the case and make a decision about whether to refund the buyer. If Etsy decides to refund the buyer, Etsy will also refund the seller for the cost of the item and shipping.', 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.2, 0.1], 'categories': ['Finance', 'Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.2, 'Legal': 0.1}}}",2023-08-28 12:58:24
+kannan.g@taskus.com,{'Selected ': 'etsyseller Chat-bison-001'},2023-08-28 14:13:43
+kannan.g@taskus.com,{'Question': 'Where do I purchase a domain?'},2023-08-28 14:13:54
+kannan.g@taskus.com,{'Pinecone_index': 'etsysellerac27238a9c174647aa01d0fc4c402601'},2023-08-28 14:13:56
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!5',
+              'metadata': {'file_chunk_index': 5.0, 'filename': 'etsy-seller'},
+              'score': 0.56811142,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!3',
+              'metadata': {'file_chunk_index': 3.0, 'filename': 'etsy-seller'},
+              'score': 0.565746903,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!7',
+              'metadata': {'file_chunk_index': 7.0, 'filename': 'etsy-seller'},
+              'score': 0.559339941,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!27',
+              'metadata': {'file_chunk_index': 27.0, 'filename': 'etsy-seller'},
+              'score': 0.556840479,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!11',
+              'metadata': {'file_chunk_index': 11.0, 'filename': 'etsy-seller'},
+              'score': 0.546306729,
+              'values': []}],
+ 'namespace': 'etsysellerac27238a9c174647aa01d0fc4c402601'}}",2023-08-28 14:13:57
+kannan.g@taskus.com,{'file_string': ''},2023-08-28 14:13:57
+kannan.g@taskus.com,Log in,2023-08-28 14:15:11
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 14:15:11
+kannan.g@taskus.com,{'Selected ': 'shopify Chat-bison-001'},2023-08-28 14:15:17
+kannan.g@taskus.com,{'Question': 'Where do I purchase a domain?'},2023-08-28 14:15:25
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 14:15:27
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.756065547,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.69939822,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!6',
+              'metadata': {'file_chunk_index': 6.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.683845341,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!4',
+              'metadata': {'file_chunk_index': 4.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.663232565,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.663223445,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 14:15:28
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n'}",2023-08-28 14:15:28
+kannan.g@taskus.com,"{'Answer: ': {'text': ""You can purchase a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", '_prediction_response': Prediction(predictions=[{'candidates': [{'content': ""You can purchase a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", 'author': '1'}], 'citationMetadata': [{'citations': [{'startIndex': 17.0, 'endIndex': 139.0}, {'startIndex': 103.0, 'url': 'https://medium.com/@mykitcart/how-to-start-an-online-store-with-kitcart-a-step-by-step-guide-825dfc34cb86?source=rss-------1', 'endIndex': 302.0}]}], 'safetyAttributes': [{'blocked': False, 'scores': [0.5, 0.1, 0.1], 'categories': ['Finance', 'Health', 'Toxic']}]}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.5, 'Health': 0.1, 'Toxic': 0.1}}}",2023-08-28 14:15:32
+kannan.g@taskus.com,{'Question': 'How do I transfer domain to shopify'},2023-08-28 14:15:44
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 14:15:46
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.834640622,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!1',
+              'metadata': {'file_chunk_index': 1.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.828960896,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.827725828,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.817928374,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.804186702,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 14:15:48
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\nLearn more about transferring your domain out of Shopify https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; Common questions about: Connect a third-party domain; ; ; ; Why isn\'t my domain connected to my online store?; ; ; ; There are many reasons why a domain connection might not work. If you\'re using a domain from a third-party domain provider, then you might need to edit the domain\'s DNS settings.; ; ; ; Shopify Support can\'t log in to your third-party domain account for you, even if you give your explicit permission. If you need help with pointing your domain to your Shopify store, then contact your third-party domain provider’s support team. You might need to give them the following information:; ; ; ; ; ; You want your A record to point to the Shopify IP address 23.227.38.65.; ; You want your CNAME record to point to shops.myshopify.com.; ; Learn how to connect a domain to Shopify https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains; ; Learn how to get help with your third-party domain https://help.shopify.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/transferring-domains; ; ; ; How do I remove a domain from my store?; ; ; ; If you no longer want a custom domain associated with your Shopify store, then you can do one of the following:; ; ; ; If you have a third-party domain, then you can remove your domain from your Shopify admin.; ; If you have a Shopify-managed domain and you want to use it on another website, then you can transfer your domain to another Shopify store or to another domain provider.; ; If you have a Shopify-managed domain and you want to cancel it completely, then you can disable automatic renewal so that it expires at the end of the registration period.; ; Learn more about removing a third-party domain https://help.shopify.com/en/manual/domains/removing-domains; ; Learn more about transferring a Shopify domain to another store or domain provider https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; ; ; How do I transfer my domain out of Shopify?; ; ; ; To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.\n###\n""Shopify FAQ (1)""\nFilename is: Shopify FAQ (1); Common questions about: Transfer a domain to Shopify; ; ; ; How do I transfer my domain to Shopify?; ; ; ; When you transfer a domain, management of the domain moves to Shopify. This means that you adjust your domain settings, pay for your domain, and renew your domain directly in your Shopify admin.; ; ; ; To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account.Learn how to transfer a domain to Shopify https://help.shopify.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n###\n""Shopify FAQ (1)""\ninfo, and then click Next.; ; Click Connect automatically.; ; If necessary, log in to your Google Domains account.; ; Click Connect, and then click Close.; ; ; ; ; ; It might take up to 48 hours for your domain to be verified. After it\'s verified, your domain is listed in the THIRD-PARTY DOMAINS section of the Domains page with the status Connected.; ; Learn more about connecting your Google domain to your Shopify store https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/connect-domain-automatic; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; Common questions about: Buy a domain; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers.\n'}",2023-08-28 14:15:48
+kannan.g@taskus.com,"{'Answer: ': {'text': 'To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify.', '_prediction_response': Prediction(predictions=[{'candidates': [{'content': 'To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify.', 'author': 'bot'}], 'citationMetadata': [{'citations': []}], 'safetyAttributes': [{'blocked': False, 'scores': [0.5, 0.2], 'categories': ['Finance', 'Legal']}]}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.5, 'Legal': 0.2}}}",2023-08-28 14:15:51
+kannan.g@taskus.com,Log in,2023-08-28 14:17:08
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 14:17:08
+kannan.g@taskus.com,{'Selected ': 'shopify Chat-bison-001'},2023-08-28 14:17:14
+kannan.g@taskus.com,{'Question': 'Where do I purchase a domain?'},2023-08-28 14:17:27
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 14:17:29
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.756065547,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.69939822,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!6',
+              'metadata': {'file_chunk_index': 6.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.683845341,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!4',
+              'metadata': {'file_chunk_index': 4.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.663232565,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.663223445,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 14:17:30
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n'}",2023-08-28 14:17:30
+kannan.g@taskus.com,"{'Answer: ': {'text': ""You can purchase a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", '_prediction_response': Prediction(predictions=[{'candidates': [{'content': ""You can purchase a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", 'author': '1'}], 'citationMetadata': [{'citations': [{'startIndex': 17.0, 'endIndex': 139.0}, {'startIndex': 103.0, 'url': 'https://medium.com/@mykitcart/how-to-start-an-online-store-with-kitcart-a-step-by-step-guide-825dfc34cb86?source=rss-------1', 'endIndex': 302.0}]}], 'safetyAttributes': [{'blocked': False, 'scores': [0.5, 0.1, 0.1], 'categories': ['Finance', 'Health', 'Toxic']}]}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.5, 'Health': 0.1, 'Toxic': 0.1}}}",2023-08-28 14:17:34
+kannan.g@taskus.com,{'Question': 'How do I transfer domain to shopify?'},2023-08-28 14:17:51
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 14:17:53
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.815425396,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!1',
+              'metadata': {'file_chunk_index': 1.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.81114769,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.80758667,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.801962674,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.799318492,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 14:17:54
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\nLearn more about transferring your domain out of Shopify https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; Common questions about: Connect a third-party domain; ; ; ; Why isn\'t my domain connected to my online store?; ; ; ; There are many reasons why a domain connection might not work. If you\'re using a domain from a third-party domain provider, then you might need to edit the domain\'s DNS settings.; ; ; ; Shopify Support can\'t log in to your third-party domain account for you, even if you give your explicit permission. If you need help with pointing your domain to your Shopify store, then contact your third-party domain provider’s support team. You might need to give them the following information:; ; ; ; ; ; You want your A record to point to the Shopify IP address 23.227.38.65.; ; You want your CNAME record to point to shops.myshopify.com.; ; Learn how to connect a domain to Shopify https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains; ; Learn how to get help with your third-party domain https://help.shopify.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/transferring-domains; ; ; ; How do I remove a domain from my store?; ; ; ; If you no longer want a custom domain associated with your Shopify store, then you can do one of the following:; ; ; ; If you have a third-party domain, then you can remove your domain from your Shopify admin.; ; If you have a Shopify-managed domain and you want to use it on another website, then you can transfer your domain to another Shopify store or to another domain provider.; ; If you have a Shopify-managed domain and you want to cancel it completely, then you can disable automatic renewal so that it expires at the end of the registration period.; ; Learn more about removing a third-party domain https://help.shopify.com/en/manual/domains/removing-domains; ; Learn more about transferring a Shopify domain to another store or domain provider https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; ; ; How do I transfer my domain out of Shopify?; ; ; ; To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n###\n""Shopify FAQ (1)""\nFilename is: Shopify FAQ (1); Common questions about: Transfer a domain to Shopify; ; ; ; How do I transfer my domain to Shopify?; ; ; ; When you transfer a domain, management of the domain moves to Shopify. This means that you adjust your domain settings, pay for your domain, and renew your domain directly in your Shopify admin.; ; ; ; To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account.Learn how to transfer a domain to Shopify https://help.shopify.\n###\n""Shopify FAQ (1)""\ninfo, and then click Next.; ; Click Connect automatically.; ; If necessary, log in to your Google Domains account.; ; Click Connect, and then click Close.; ; ; ; ; ; It might take up to 48 hours for your domain to be verified. After it\'s verified, your domain is listed in the THIRD-PARTY DOMAINS section of the Domains page with the status Connected.; ; Learn more about connecting your Google domain to your Shopify store https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/connect-domain-automatic; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; Common questions about: Buy a domain; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers.\n'}",2023-08-28 14:17:54
+kannan.g@taskus.com,"{'Answer: ': {'text': 'To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify', '_prediction_response': Prediction(predictions=[{'candidates': [{'content': 'To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify', 'author': 'bot'}], 'citationMetadata': [{'citations': []}], 'safetyAttributes': [{'blocked': False, 'scores': [0.5, 0.2], 'categories': ['Finance', 'Legal']}]}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.5, 'Legal': 0.2}}}",2023-08-28 14:17:57
+kannan.g@taskus.com,{'Selected ': 'veho Chat-bison-001'},2023-08-28 14:18:04
+kannan.g@taskus.com,{'Question': 'What is veho?'},2023-08-28 14:18:12
+kannan.g@taskus.com,{'Pinecone_index': 'veho2ea4d695160f412fa33ccff93a3c3309'},2023-08-28 14:18:14
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!0',
+              'metadata': {'file_chunk_index': 0.0, 'filename': 'Veho FAQ'},
+              'score': 0.741623878,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!4',
+              'metadata': {'file_chunk_index': 4.0, 'filename': 'Veho FAQ'},
+              'score': 0.717438757,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!11',
+              'metadata': {'file_chunk_index': 11.0, 'filename': 'Veho FAQ'},
+              'score': 0.689737,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!9',
+              'metadata': {'file_chunk_index': 9.0, 'filename': 'Veho FAQ'},
+              'score': 0.683356762,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!12',
+              'metadata': {'file_chunk_index': 12.0, 'filename': 'Veho FAQ'},
+              'score': 0.678744853,
+              'values': []}],
+ 'namespace': 'veho2ea4d695160f412fa33ccff93a3c3309'}}",2023-08-28 14:18:15
+kannan.g@taskus.com,"{'file_string': '###\n""Veho FAQ""\nFilename is: Veho FAQ; Veho Driver help center; ; ; ; Register to Drive; ; ; ; How do I register to deliver with Veho?; ; Click this link https://shipveho.com/drive/register/?utm_source=veho, to register to drive. Follow the steps to learn more about registration requirements and the onboarding process.; ; ; ; What are the requirements to drive with Veho?; ; Be 25+ years of age; ; Have a valid driver\'s license and vehicle insurance (see detailed insurance requirements by clicking this link https://sites.google.com/shipveho.com/drivers/insurance-requirements); ; Have access to a large enough vehicle; ; ; ; What type of vehicle do I need?; ; All packages associated with your route will need to fit into your vehicle or you may not be able to complete a route for Veho. ; ; We recommend having a large sedan or bigger. We consider Honda Civic, Nissan Sentra, Subaru Impreza etc to be small sedans that will not fit the required amount of packages.\n###\n""Veho FAQ""\n Veho will also regularly send drivers a push notification informing them when routes are available.; ; Veho operates 7 days a week in most markets, however some markets may have varying operating days and times.; ; ; ; Do I need to bring my driver\'s license?; ; It is Veho policy that all drivers maintain a current and valid driver’s license while performing delivery services with Veho. The name on your driver’s license must match the name on your driver account. If you cannot produce a valid driver’s license, you may be dropped from your route(s). ; ; Please be prepared to show identification whenever you arrive at a Veho warehouse. ; ; ; ; What is Veho XL and how can I join?; ; Veho XL offers drivers with large vehicles an opportunity to earn more every day. Veho XL routes are only available to drivers with cars that have greater than 80 foot cubic capacity, and is currently only in select markets. These routes are typically longer than standard routes as they contain more packages, but offer higher earnings for each route. ; ; To Drive with Veho XL:; ; Confirm the vehicle on your insurance document appears on the Veho XL approved list.; ; Email support@shipveho.com with a request to join Veho XL.\n'}",2023-08-28 14:18:15
+kannan.g@taskus.com,"{'Answer: ': {'text': 'Veho is a last-mile delivery company that connects businesses with independent contractors to deliver packages. Veho offers drivers the opportunity to earn money on their own schedule, and provides businesses with a reliable and affordable delivery solution.', '_prediction_response': Prediction(predictions=[{'candidates': [{'content': 'Veho is a last-mile delivery company that connects businesses with independent contractors to deliver packages. Veho offers drivers the opportunity to earn money on their own schedule, and provides businesses with a reliable and affordable delivery solution.', 'author': '1'}], 'citationMetadata': [{'citations': []}], 'safetyAttributes': [{'blocked': False, 'scores': [0.7], 'categories': ['Finance']}]}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.7}}}",2023-08-28 14:18:19
+kannan.g@taskus.com,Log in,2023-08-28 14:30:10
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 14:30:10
+kannan.g@taskus.com,{'Question': 'Is there option to remove?'},2023-08-28 14:30:26
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 14:30:28
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!1',
+              'metadata': {'file_chunk_index': 1.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.634406924,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.629289746,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!15',
+              'metadata': {'file_chunk_index': 15.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.605545878,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!29',
+              'metadata': {'file_chunk_index': 29.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.603681684,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!14',
+              'metadata': {'file_chunk_index': 14.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.603021324,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 14:30:29
+kannan.g@taskus.com,{'file_string': ''},2023-08-28 14:30:29
+kannan.g@taskus.com,"{'Answer: ': {'text': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", '_prediction_response': Prediction(predictions=[{'content': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [], 'categories': []}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {}}}",2023-08-28 14:30:32
+kannan.g@taskus.com,{'Question': 'Where do I purhase a domain?'},2023-08-28 16:39:07
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 16:39:10
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.759623528,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.702358842,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!6',
+              'metadata': {'file_chunk_index': 6.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.691016138,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.675245464,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!4',
+              'metadata': {'file_chunk_index': 4.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.66769439,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 16:39:11
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n###\n""Shopify FAQ (1)""\ninfo, and then click Next.; ; Click Connect automatically.; ; If necessary, log in to your Google Domains account.; ; Click Connect, and then click Close.; ; ; ; ; ; It might take up to 48 hours for your domain to be verified. After it\'s verified, your domain is listed in the THIRD-PARTY DOMAINS section of the Domains page with the status Connected.; ; Learn more about connecting your Google domain to your Shopify store https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/connect-domain-automatic; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; Common questions about: Buy a domain; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers.\n'}",2023-08-28 16:39:11
+kannan.g@taskus.com,"{'Answer: ': {'text': ""To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers."", '_prediction_response': Prediction(predictions=[{'content': ""To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers."", 'citationMetadata': {'citations': [{'startIndex': 77.0, 'endIndex': 226.0}, {'startIndex': 130.0, 'url': 'https://community.shopify.com/c/store-feedback/lego-building/td-p/1527610', 'endIndex': 273.0}]}, 'safetyAttributes': {'blocked': False, 'scores': [0.2], 'categories': ['Finance']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.2}}}",2023-08-28 16:39:15
+kannan.g@taskus.com,Log in,2023-08-28 16:45:28
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 16:45:28
+kannan.g@taskus.com,Log in,2023-08-28 16:46:57
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 16:46:57
+kannan.g@taskus.com,Log in,2023-08-28 16:48:07
+kannan.g@taskus.com,Log in,2023-08-28 16:52:16
+kannan.g@taskus.com,Log in,2023-08-28 16:55:01
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 16:55:01
+kannan.g@taskus.com,Log in,2023-08-28 16:59:04
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 16:59:04
+kannan.g@taskus.com,{'Selected ': 'veho Text-bison-001'},2023-08-28 17:00:04
+kannan.g@taskus.com,{'Question': 'What is veho?'},2023-08-28 17:00:37
+kannan.g@taskus.com,{'Pinecone_index': 'veho2ea4d695160f412fa33ccff93a3c3309'},2023-08-28 17:00:39
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!0',
+              'metadata': {'file_chunk_index': 0.0, 'filename': 'Veho FAQ'},
+              'score': 0.741623878,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!4',
+              'metadata': {'file_chunk_index': 4.0, 'filename': 'Veho FAQ'},
+              'score': 0.717438757,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!11',
+              'metadata': {'file_chunk_index': 11.0, 'filename': 'Veho FAQ'},
+              'score': 0.689737,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!9',
+              'metadata': {'file_chunk_index': 9.0, 'filename': 'Veho FAQ'},
+              'score': 0.683356762,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!12',
+              'metadata': {'file_chunk_index': 12.0, 'filename': 'Veho FAQ'},
+              'score': 0.678744853,
+              'values': []}],
+ 'namespace': 'veho2ea4d695160f412fa33ccff93a3c3309'}}",2023-08-28 17:00:40
+kannan.g@taskus.com,"{'file_string': '###\n""Veho FAQ""\nFilename is: Veho FAQ; Veho Driver help center; ; ; ; Register to Drive; ; ; ; How do I register to deliver with Veho?; ; Click this link https://shipveho.com/drive/register/?utm_source=veho, to register to drive. Follow the steps to learn more about registration requirements and the onboarding process.; ; ; ; What are the requirements to drive with Veho?; ; Be 25+ years of age; ; Have a valid driver\'s license and vehicle insurance (see detailed insurance requirements by clicking this link https://sites.google.com/shipveho.com/drivers/insurance-requirements); ; Have access to a large enough vehicle; ; ; ; What type of vehicle do I need?; ; All packages associated with your route will need to fit into your vehicle or you may not be able to complete a route for Veho. ; ; We recommend having a large sedan or bigger. We consider Honda Civic, Nissan Sentra, Subaru Impreza etc to be small sedans that will not fit the required amount of packages.\n###\n""Veho FAQ""\n Veho will also regularly send drivers a push notification informing them when routes are available.; ; Veho operates 7 days a week in most markets, however some markets may have varying operating days and times.; ; ; ; Do I need to bring my driver\'s license?; ; It is Veho policy that all drivers maintain a current and valid driver’s license while performing delivery services with Veho. The name on your driver’s license must match the name on your driver account. If you cannot produce a valid driver’s license, you may be dropped from your route(s). ; ; Please be prepared to show identification whenever you arrive at a Veho warehouse. ; ; ; ; What is Veho XL and how can I join?; ; Veho XL offers drivers with large vehicles an opportunity to earn more every day. Veho XL routes are only available to drivers with cars that have greater than 80 foot cubic capacity, and is currently only in select markets. These routes are typically longer than standard routes as they contain more packages, but offer higher earnings for each route. ; ; To Drive with Veho XL:; ; Confirm the vehicle on your insurance document appears on the Veho XL approved list.; ; Email support@shipveho.com with a request to join Veho XL.\n'}",2023-08-28 17:00:40
+kannan.g@taskus.com,"{'Answer: ': {'text': 'Veho is a company that provides on-demand delivery services. We connect drivers with businesses that need help delivering packages.', '_prediction_response': Prediction(predictions=[{'content': 'Veho is a company that provides on-demand delivery services. We connect drivers with businesses that need help delivering packages.', 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.5], 'categories': ['Finance']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.5}}}",2023-08-28 17:00:44
+kannan.g@taskus.com,{'Question': 'How do I transfer my domain to shopify?'},2023-08-28 17:04:21
+kannan.g@taskus.com,{'Pinecone_index': 'veho2ea4d695160f412fa33ccff93a3c3309'},2023-08-28 17:04:23
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!14',
+              'metadata': {'file_chunk_index': 14.0, 'filename': 'Veho FAQ'},
+              'score': 0.606473804,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!0',
+              'metadata': {'file_chunk_index': 0.0, 'filename': 'Veho FAQ'},
+              'score': 0.601863086,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'Veho FAQ'},
+              'score': 0.596957684,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!12',
+              'metadata': {'file_chunk_index': 12.0, 'filename': 'Veho FAQ'},
+              'score': 0.596224129,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!6',
+              'metadata': {'file_chunk_index': 6.0, 'filename': 'Veho FAQ'},
+              'score': 0.595835149,
+              'values': []}],
+ 'namespace': 'veho2ea4d695160f412fa33ccff93a3c3309'}}",2023-08-28 17:04:24
+kannan.g@taskus.com,{'file_string': ''},2023-08-28 17:04:25
+kannan.g@taskus.com,"{'Answer: ': {'text': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", '_prediction_response': Prediction(predictions=[{'content': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.1, 0.2], 'categories': ['Finance', 'Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.1, 'Legal': 0.2}}}",2023-08-28 17:04:28
+kannan.g@taskus.com,{'Question': 'What is required'},2023-08-28 17:04:42
+kannan.g@taskus.com,{'Pinecone_index': 'veho2ea4d695160f412fa33ccff93a3c3309'},2023-08-28 17:04:45
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!0',
+              'metadata': {'file_chunk_index': 0.0, 'filename': 'Veho FAQ'},
+              'score': 0.662707448,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'Veho FAQ'},
+              'score': 0.652253747,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!6',
+              'metadata': {'file_chunk_index': 6.0, 'filename': 'Veho FAQ'},
+              'score': 0.635145068,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!14',
+              'metadata': {'file_chunk_index': 14.0, 'filename': 'Veho FAQ'},
+              'score': 0.632220268,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!4',
+              'metadata': {'file_chunk_index': 4.0, 'filename': 'Veho FAQ'},
+              'score': 0.627348363,
+              'values': []}],
+ 'namespace': 'veho2ea4d695160f412fa33ccff93a3c3309'}}",2023-08-28 17:04:46
+kannan.g@taskus.com,{'file_string': ''},2023-08-28 17:04:46
+kannan.g@taskus.com,"{'Answer: ': {'text': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", '_prediction_response': Prediction(predictions=[{'content': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.1], 'categories': ['Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Legal': 0.1}}}",2023-08-28 17:04:49
+kannan.g@taskus.com,{'Question': 'hat is required?'},2023-08-28 17:04:55
+kannan.g@taskus.com,{'Pinecone_index': 'veho2ea4d695160f412fa33ccff93a3c3309'},2023-08-28 17:04:57
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'Veho FAQ'},
+              'score': 0.63711077,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!0',
+              'metadata': {'file_chunk_index': 0.0, 'filename': 'Veho FAQ'},
+              'score': 0.624820113,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!4',
+              'metadata': {'file_chunk_index': 4.0, 'filename': 'Veho FAQ'},
+              'score': 0.624594092,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!14',
+              'metadata': {'file_chunk_index': 14.0, 'filename': 'Veho FAQ'},
+              'score': 0.61903733,
+              'values': []},
+             {'id': 'veho2ea4d695160f412fa33ccff93a3c3309-!Veho FAQ-!3',
+              'metadata': {'file_chunk_index': 3.0, 'filename': 'Veho FAQ'},
+              'score': 0.595334649,
+              'values': []}],
+ 'namespace': 'veho2ea4d695160f412fa33ccff93a3c3309'}}",2023-08-28 17:04:58
+kannan.g@taskus.com,{'file_string': ''},2023-08-28 17:04:58
+kannan.g@taskus.com,"{'Answer: ': {'text': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", '_prediction_response': Prediction(predictions=[{'content': ""I'm sorry, I don't have the information you're looking for at the moment. Let me learn more and get back to you, or feel free to ask me another question."", 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.1], 'categories': ['Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Legal': 0.1}}}",2023-08-28 17:05:02
+kannan.g@taskus.com,Log in,2023-08-28 17:17:56
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 17:17:56
+kannan.g@taskus.com,Log in,2023-08-28 23:04:47
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 23:04:47
+kannan.g@taskus.com,Log in,2023-08-28 23:16:41
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 23:16:41
+kannan.g@taskus.com,{'Question': 'Where do I purchase a domain'},2023-08-28 23:17:48
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 23:17:50
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.757670403,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.699746311,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!6',
+              'metadata': {'file_chunk_index': 6.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.679179192,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.670654118,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.661900401,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 23:17:51
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n'}",2023-08-28 23:17:51
+kannan.g@taskus.com,"{'Answer: ': {'text': ""To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", '_prediction_response': Prediction(predictions=[{'content': ""To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it's automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain."", 'citationMetadata': {'citations': [{'startIndex': 77.0, 'endIndex': 226.0}, {'startIndex': 190.0, 'url': 'https://medium.com/@mykitcart/how-to-start-an-online-store-with-kitcart-a-step-by-step-guide-825dfc34cb86?source=rss-------1', 'endIndex': 389.0}]}, 'safetyAttributes': {'blocked': False, 'scores': [0.2], 'categories': ['Finance']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.2}}}",2023-08-28 23:17:54
+kannan.g@taskus.com,{'Question': 'How do I transfer my domain to shopify?'},2023-08-28 23:18:14
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 23:18:16
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.810244501,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!1',
+              'metadata': {'file_chunk_index': 1.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.806677103,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.801598,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.798772037,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!5',
+              'metadata': {'file_chunk_index': 5.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.791215897,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 23:18:17
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\nLearn more about transferring your domain out of Shopify https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; Common questions about: Connect a third-party domain; ; ; ; Why isn\'t my domain connected to my online store?; ; ; ; There are many reasons why a domain connection might not work. If you\'re using a domain from a third-party domain provider, then you might need to edit the domain\'s DNS settings.; ; ; ; Shopify Support can\'t log in to your third-party domain account for you, even if you give your explicit permission. If you need help with pointing your domain to your Shopify store, then contact your third-party domain provider’s support team. You might need to give them the following information:; ; ; ; ; ; You want your A record to point to the Shopify IP address 23.227.38.65.; ; You want your CNAME record to point to shops.myshopify.com.; ; Learn how to connect a domain to Shopify https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains; ; Learn how to get help with your third-party domain https://help.shopify.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/transferring-domains; ; ; ; How do I remove a domain from my store?; ; ; ; If you no longer want a custom domain associated with your Shopify store, then you can do one of the following:; ; ; ; If you have a third-party domain, then you can remove your domain from your Shopify admin.; ; If you have a Shopify-managed domain and you want to use it on another website, then you can transfer your domain to another Shopify store or to another domain provider.; ; If you have a Shopify-managed domain and you want to cancel it completely, then you can disable automatic renewal so that it expires at the end of the registration period.; ; Learn more about removing a third-party domain https://help.shopify.com/en/manual/domains/removing-domains; ; Learn more about transferring a Shopify domain to another store or domain provider https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; ; ; How do I transfer my domain out of Shopify?; ; ; ; To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n###\n""Shopify FAQ (1)""\nFilename is: Shopify FAQ (1); Common questions about: Transfer a domain to Shopify; ; ; ; How do I transfer my domain to Shopify?; ; ; ; When you transfer a domain, management of the domain moves to Shopify. This means that you adjust your domain settings, pay for your domain, and renew your domain directly in your Shopify admin.; ; ; ; To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account.Learn how to transfer a domain to Shopify https://help.shopify.\n###\n""Shopify FAQ (1)""\ninfo, and then click Next.; ; Click Connect automatically.; ; If necessary, log in to your Google Domains account.; ; Click Connect, and then click Close.; ; ; ; ; ; It might take up to 48 hours for your domain to be verified. After it\'s verified, your domain is listed in the THIRD-PARTY DOMAINS section of the Domains page with the status Connected.; ; Learn more about connecting your Google domain to your Shopify store https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains/connect-domain-automatic; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; Common questions about: Buy a domain; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers.\n'}",2023-08-28 23:18:17
+kannan.g@taskus.com,"{'Answer: ': {'text': 'To transfer your domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify', '_prediction_response': Prediction(predictions=[{'content': 'To transfer your domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account. Learn how to transfer a domain to Shopify', 'citationMetadata': {'citations': [{'startIndex': 0.0, 'url': 'https://changecreator.com/shopify-vs-wordpress/', 'endIndex': 125.0}]}, 'safetyAttributes': {'blocked': False, 'scores': [0.1], 'categories': ['Finance']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.1}}}",2023-08-28 23:18:20
+kannan.g@taskus.com,Log in,2023-08-28 23:26:56
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 23:26:56
+kannan.g@taskus.com,{'Question': 'How do I transfer my domain out of Shopify?'},2023-08-28 23:27:26
+kannan.g@taskus.com,{'Pinecone_index': 'shopifyec389a2e1cd6452e8094fa99d147b161'},2023-08-28 23:27:28
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!1',
+              'metadata': {'file_chunk_index': 1.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.84594804,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!2',
+              'metadata': {'file_chunk_index': 2.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.832036555,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!3',
+              'metadata': {'file_chunk_index': 3.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.800003648,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!0',
+              'metadata': {'file_chunk_index': 0.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.785543323,
+              'values': []},
+             {'id': 'shopifyec389a2e1cd6452e8094fa99d147b161-!Shopify FAQ '
+                    '(1)-!6',
+              'metadata': {'file_chunk_index': 6.0,
+                           'filename': 'Shopify FAQ (1)'},
+              'score': 0.780804336,
+              'values': []}],
+ 'namespace': 'shopifyec389a2e1cd6452e8094fa99d147b161'}}",2023-08-28 23:27:30
+kannan.g@taskus.com,"{'file_string': '###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/transferring-domains; ; ; ; How do I remove a domain from my store?; ; ; ; If you no longer want a custom domain associated with your Shopify store, then you can do one of the following:; ; ; ; If you have a third-party domain, then you can remove your domain from your Shopify admin.; ; If you have a Shopify-managed domain and you want to use it on another website, then you can transfer your domain to another Shopify store or to another domain provider.; ; If you have a Shopify-managed domain and you want to cancel it completely, then you can disable automatic renewal so that it expires at the end of the registration period.; ; Learn more about removing a third-party domain https://help.shopify.com/en/manual/domains/removing-domains; ; Learn more about transferring a Shopify domain to another store or domain provider https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; ; ; How do I transfer my domain out of Shopify?; ; ; ; To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.\n###\n""Shopify FAQ (1)""\nLearn more about transferring your domain out of Shopify https://help.shopify.com/en/manual/domains/managing-domain-ownership/transferring-shopify-domains; ; Common questions about: Connect a third-party domain; ; ; ; Why isn\'t my domain connected to my online store?; ; ; ; There are many reasons why a domain connection might not work. If you\'re using a domain from a third-party domain provider, then you might need to edit the domain\'s DNS settings.; ; ; ; Shopify Support can\'t log in to your third-party domain account for you, even if you give your explicit permission. If you need help with pointing your domain to your Shopify store, then contact your third-party domain provider’s support team. You might need to give them the following information:; ; ; ; ; ; You want your A record to point to the Shopify IP address 23.227.38.65.; ; You want your CNAME record to point to shops.myshopify.com.; ; Learn how to connect a domain to Shopify https://help.shopify.com/en/manual/domains/add-a-domain/connecting-domains; ; Learn how to get help with your third-party domain https://help.shopify.\n###\n""Shopify FAQ (1)""\ncom/en/manual/domains/add-a-domain/connecting-domains/contact-domain-provider; ; Watch ""How to connect a third-party domain"" https://www.youtube.com/watch?v=S76VTtJCH_A; ; ; ; Where do I purchase a domain?; ; ; ; To help you set up your domain and manage all your domain settings from your Shopify admin, you can buy a domain through Shopify. If this domain is the first domain that you add to Shopify, then it\'s automatically configured to be the web address that’s displayed to customers. If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.\n###\n""Shopify FAQ (1)""\nFilename is: Shopify FAQ (1); Common questions about: Transfer a domain to Shopify; ; ; ; How do I transfer my domain to Shopify?; ; ; ; When you transfer a domain, management of the domain moves to Shopify. This means that you adjust your domain settings, pay for your domain, and renew your domain directly in your Shopify admin.; ; ; ; To transfer a domain to Shopify, you need to have registered your domain more than 60 days ago, and have access to your original domain provider account.Learn how to transfer a domain to Shopify https://help.shopify.\n###\n""Shopify FAQ (1)""\n If you already use a domain with your store, then the new domain automatically redirects to your primary domain.; ; ; ; Domains purchased through Shopify are registered for one year, and can be renewed annually until you cancel your domain or your Shopify store.; ; ; ; Learn more about buying a custom domain through Shopify https://help.shopify.com/en/manual/domains/add-a-domain/buying-domains; ; Buy a domain through Shopify https://www.shopify.com/domains; ; Watch ""How To Buy a Custom Shopify Domain"" https://www.youtube.com/watch?v=ySEHFaIO5Vc; ; ; ; ===========================================================; ; Common questions about: Plans and billing; ; ; ; How do I get a billing refund?; ; Shopify does not provide refunds. For more information, see the Shopify Terms of Service https://www.shopify.com/legal/terms.; ; Learn more about your bill https://help.shopify.com/en/manual/your-account/manage-billing/your-invoice; ; ; ; What do I do if my payment fails?; ; If your payment method is rejected and you are using a valid credit card from Mastercard, Visa, or American Express, then contact your bank for assistance.; ; Learn more about your bill https://help.\n'}",2023-08-28 23:27:30
+kannan.g@taskus.com,"{'Answer: ': {'text': 'To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.', '_prediction_response': Prediction(predictions=[{'content': 'To transfer your Shopify-managed domain to another domain provider, you must unlock your domain and provide your new domain provider with a domain authorization code.', 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.1], 'categories': ['Finance']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.1}}}",2023-08-28 23:27:34
+kannan.g@taskus.com,Log out,2023-08-28 23:29:26
+kannan.g@taskus.com,Log in,2023-08-28 23:30:19
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 23:30:19
+kannan.g@taskus.com,{'Selected ': 'veho Text-bison-001'},2023-08-28 23:30:39
+kannan.g@taskus.com,{'Selected ': 'etsyseller Text-bison-001'},2023-08-28 23:30:43
+kannan.g@taskus.com,"{'Question': ""What is Etsy's Purchase Protection for Sellers?""}",2023-08-28 23:30:58
+kannan.g@taskus.com,{'Pinecone_index': 'etsysellerac27238a9c174647aa01d0fc4c402601'},2023-08-28 23:31:00
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'etsy-seller'},
+              'score': 0.814698696,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!11',
+              'metadata': {'file_chunk_index': 11.0, 'filename': 'etsy-seller'},
+              'score': 0.756401956,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!27',
+              'metadata': {'file_chunk_index': 27.0, 'filename': 'etsy-seller'},
+              'score': 0.735193253,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!3',
+              'metadata': {'file_chunk_index': 3.0, 'filename': 'etsy-seller'},
+              'score': 0.714584589,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!9',
+              'metadata': {'file_chunk_index': 9.0, 'filename': 'etsy-seller'},
+              'score': 0.700043082,
+              'values': []}],
+ 'namespace': 'etsysellerac27238a9c174647aa01d0fc4c402601'}}",2023-08-28 23:31:01
+kannan.g@taskus.com,"{'file_string': '###\n""etsy-seller""\n\xa0; What isn’t eligible for Etsy’s Purchase Protection program?\xa0; The following situations will make an order ineligible for Purchase Protection:\xa0\xa0; ; The order does not meet one or more of the eligibility requirements for Etsy Purchase Protection.; The order total is over $250 USD (or the equivalent of your local currency), including shipping and taxes.\xa0; The item doesn’t match the listing description. We strongly recommend using accurate photos and descriptions when listing an item.; You obtain insurance from a third-party source, or have carrier and/or payment processor coverage. We ask that you first submit a claim to your primary source of coverage instead.\xa0; You’re from a region where Etsy Payments is not currently available.; Your shop is not in good standing for violating Etsy policies.; ; Sellers are responsible for refunding costs for orders that fall outside of these eligibility requirements.; See our article of best shipping practices to ensure you’re following the proper steps for your order to arrive undamaged.\xa0; How do I qualify for Etsy Purchase Protection?\xa0; Etsy Purchase Protection will automatically cover qualifying orders with no setup required from the seller.\xa0\xa0; The Etsy Purchase Protection process only begins after:; ; ; A buyer reaches out to you about an order through a Help request; The buyer opens a case about the order; ; ; Once a buyer has taken both of these actions, Etsy will review the order and make a resolution.\n###\n""etsy-seller""\n Try updating your taxpayer information in a few hours or the following day.; ; I entered incorrect US taxpayer details; If you enter US taxpayer details, we’ll check that the information matches the information on file in the IRS database.\xa0; If the information you’ve entered doesn’t match the IRS database, you must update again with your correct taxpayer details. You can try adding your taxpayer details up to 5 times per 24 hours. If you exceed this number of attempts, check back after 24 hours. We’ll notify you if they still don’t match the IRS database. ; ; If your sales have totaled at least $500.00 USD since January 1 of this year and you haven’t yet added valid taxpayer details, your shop will be suspended if you enter incorrect details. The suspension will automatically be lifted once you add the correct details.; Once you are close to the threshold, you\'ll see an alert in your Shop Manager Dashboard asking you to enter in your taxpayer details.; You can contact the IRS to confirm your correct taxpayer information.\n###\n""etsy-seller""\n Message to Buyers are included on order receipt pages and in the email buyers receive when they purchase from your shop.;             ; ;             ;               ;             ;           ; ;           ;           ; ;           ;  ;   ;    Related articles;   ;   ;    ;     ;      Refunds, Returns, and Exchanges for Sellers;     ;    ;     ;      How to Set Up Your Shop Policies;     ;\n###\n""etsy-seller""\n It’s important that you respond to requests for information in the case log within the time frame given to show both the buyer and Etsy that you are working towards a solution.; As we continue to invest in our sellers’ success, your feedback is crucial for helping us improve the seller experience. Our survey is the most effective way to provide your feedback on Etsy’s Purchase Protection program and let us know what you would like to see from it in the future. ; ; ; If you still have questions about a closed case for an item that arrived damaged or different than described, you can reach out to us to dispute the outcome.; How it works ; ; Share what happened on the next page. The more specific you are, the better we’ll be able to help.; A trained specialist will review your case and outcome to make sure everything aligns with Etsy’s policies and Etsy’s Purchase Protection program.\xa0; You’ll get a final decision via email within 1-3 business days. ; ; Generally speaking, if your case was about an item that the buyer never received, we can’t review your outcome further since we already have all the info we need.\n###\n""etsy-seller""\n If you don’t have a VAT number, you can provide us with your CURP number in the Additional Taxpayer Identification section.; ; I\'m a non-US seller with US taxpayer details: ; ; If you’re an American citizen located outside the US, you can add your Social Security Number (SSN) or Individual Taxpayer Identification Number (ITIN) as your secondary taxpayer detail.; ; I\'m a US business:; ; If you’ve organized yourself legally as a US business (and assuming you are not a sole proprietorship) and use an Employer Identification Number (EIN), you may need to enter your business name under Legal Name and Address on the Legal and tax information page.\xa0; I’m registered as a business (entity) and file my taxes as a business; ; If you’re registered with the IRS as a business (entity) and file your taxes as a business:; ; Use the business name and EIN that is registered with the IRS.; Refer to the letter provided by the IRS after you registered your EIN. This letter should indicate the correctly matched taxpayer name and EIN. We’ll use this to match the IRS database.; ; ; I\'m a US sole proprietor: ; ; If you are using a Social Security Number (SSN) or using an EIN as a sole proprietorship, you may need to enter your individual legal name.\n'}",2023-08-28 23:31:01
+kannan.g@taskus.com,"{'Answer: ': {'text': 'Etsy Purchase Protection is a program that covers qualifying orders for buyers who are not satisfied with their purchase. If a buyer opens a case about an order that arrived damaged or different than described, Etsy will review the order and make a resolution.', '_prediction_response': Prediction(predictions=[{'content': 'Etsy Purchase Protection is a program that covers qualifying orders for buyers who are not satisfied with their purchase. If a buyer opens a case about an order that arrived damaged or different than described, Etsy will review the order and make a resolution.', 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.2, 0.1], 'categories': ['Finance', 'Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.2, 'Legal': 0.1}}}",2023-08-28 23:31:05
+kannan.g@taskus.com,{'Question': 'Is that purchase protection if an order arrived damaged?'},2023-08-28 23:32:06
+kannan.g@taskus.com,{'Pinecone_index': 'etsysellerac27238a9c174647aa01d0fc4c402601'},2023-08-28 23:32:09
+kannan.g@taskus.com,"{'Pinecone_response': {'matches': [{'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!1',
+              'metadata': {'file_chunk_index': 1.0, 'filename': 'etsy-seller'},
+              'score': 0.734280169,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!11',
+              'metadata': {'file_chunk_index': 11.0, 'filename': 'etsy-seller'},
+              'score': 0.63241,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!27',
+              'metadata': {'file_chunk_index': 27.0, 'filename': 'etsy-seller'},
+              'score': 0.596066356,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!3',
+              'metadata': {'file_chunk_index': 3.0, 'filename': 'etsy-seller'},
+              'score': 0.579785049,
+              'values': []},
+             {'id': 'etsysellerac27238a9c174647aa01d0fc4c402601-!etsy-seller-!13',
+              'metadata': {'file_chunk_index': 13.0, 'filename': 'etsy-seller'},
+              'score': 0.577854097,
+              'values': []}],
+ 'namespace': 'etsysellerac27238a9c174647aa01d0fc4c402601'}}",2023-08-28 23:32:10
+kannan.g@taskus.com,"{'file_string': '###\n""etsy-seller""\n\xa0; What isn’t eligible for Etsy’s Purchase Protection program?\xa0; The following situations will make an order ineligible for Purchase Protection:\xa0\xa0; ; The order does not meet one or more of the eligibility requirements for Etsy Purchase Protection.; The order total is over $250 USD (or the equivalent of your local currency), including shipping and taxes.\xa0; The item doesn’t match the listing description. We strongly recommend using accurate photos and descriptions when listing an item.; You obtain insurance from a third-party source, or have carrier and/or payment processor coverage. We ask that you first submit a claim to your primary source of coverage instead.\xa0; You’re from a region where Etsy Payments is not currently available.; Your shop is not in good standing for violating Etsy policies.; ; Sellers are responsible for refunding costs for orders that fall outside of these eligibility requirements.; See our article of best shipping practices to ensure you’re following the proper steps for your order to arrive undamaged.\xa0; How do I qualify for Etsy Purchase Protection?\xa0; Etsy Purchase Protection will automatically cover qualifying orders with no setup required from the seller.\xa0\xa0; The Etsy Purchase Protection process only begins after:; ; ; A buyer reaches out to you about an order through a Help request; The buyer opens a case about the order; ; ; Once a buyer has taken both of these actions, Etsy will review the order and make a resolution.\n'}",2023-08-28 23:32:10
+kannan.g@taskus.com,"{'Answer: ': {'text': 'Yes, Etsy Purchase Protection covers qualifying orders for buyers who are not satisfied with their purchase. If a buyer opens a case about an order that arrived damaged or different than described, Etsy will review the order and make a resolution.', '_prediction_response': Prediction(predictions=[{'content': 'Yes, Etsy Purchase Protection covers qualifying orders for buyers who are not satisfied with their purchase. If a buyer opens a case about an order that arrived damaged or different than described, Etsy will review the order and make a resolution.', 'citationMetadata': {'citations': []}, 'safetyAttributes': {'blocked': False, 'scores': [0.2, 0.3], 'categories': ['Finance', 'Legal']}}], deployed_model_id='', model_version_id='', model_resource_name='', explanations=None), 'is_blocked': False, 'safety_attributes': {'Finance': 0.2, 'Legal': 0.3}}}",2023-08-28 23:32:14
+kannan.g@taskus.com,Log out,2023-08-28 23:32:42
+kannan.g@taskus.com,Log in,2023-08-28 23:32:59
+kannan.g@taskus.com,{'Selected ': 'shopify Text-bison-001'},2023-08-28 23:32:59
